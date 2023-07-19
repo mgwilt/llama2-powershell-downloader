@@ -44,7 +44,3 @@ The script uses PoshRSJob for running jobs in parallel to download files.
 ## Target Folder
 
 By default, all files will be downloaded to the current directory. You can modify the `$TARGET_FOLDER` variable in the script to change the download location.
-
-## Issues
-
-If you face any issues while using this script, please create an issue in the GitHub repository.
