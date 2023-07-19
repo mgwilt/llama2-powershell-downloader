@@ -1,4 +1,4 @@
-# LLaMA 2 Download Script README
+# LLaMA 2 Download Script
 
 This PowerShell script is used to download the LLaMA 2 (Large Language Models Association) model files. The script will download the model files based on the model sizes provided.
 
